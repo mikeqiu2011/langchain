@@ -5,3 +5,6 @@ langchain
 unstructured
 chromadb
 google-search-results
+chromadb
+kor markdownify
+PyPDF2
